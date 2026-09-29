@@ -82,6 +82,10 @@ entities matched.
   a smaller aligned sample (`make_aligned_sample.py`). `miti.py` reuses the
   saved LightGBM model from this pipeline for inference.
 
+  #I didn't able to submit this solution within deadline as it takes too much time, this model journey is quite difficult.
+  #So, yeah
+             #I failed but I solved the problem!
+
 ## A note
 Because of the memory crashes described above, the full-scale run only
 finished after the Unstop submission portal had already closed for this
